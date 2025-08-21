@@ -1,3 +1,6 @@
+// THIS IS THE PRACTICE WEEK ASSIGNMENT
+// ZOO MANAGEMENT SYSTEM
+
 abstract class Animal {
   final String _name;
 
